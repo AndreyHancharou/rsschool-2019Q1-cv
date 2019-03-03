@@ -39,5 +39,5 @@ Confident user PS
     * Основы Веб-дизайна
 
 ## English level
-Survival Level
+Survival Level  
 I am working to improve the level.

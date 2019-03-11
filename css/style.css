@@ -63,6 +63,10 @@ main a {
   color: #17009b;
 }
 
+main a:hover {
+  color: #070031;
+}
+
 footer {
   width: 1000px;
   height: 35px;
